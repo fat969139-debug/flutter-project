@@ -17,7 +17,14 @@
 - تصميم حديث مستوحى من Netflix
 - واجهة سهلة وسلسة
 - استخدام Animations لواجهة أجمل
+## (Screen)
 
+- app_navbar_screen.dart
+- hot_news.dart
+- movie_detailed_screen.dart
+- netflix_home_screen.dart
+- search_screen.dart
+- splash_screen.dart
 
 ##  الأدوات والتقنيات المستخدمة
 - Flutter
